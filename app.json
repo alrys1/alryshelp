@@ -1,9 +1,9 @@
 {
-  "name": "IQTHON TELETHON ARAB",
-  "description": "اهلا بك في تليثون العرب الأصلي { @iqthon }",
-  "logo": "https://telegra.ph/file/aa0ee1b06ddcdcb40189a.jpg",
+  "name": "Mrs. Thon",
+  "description": "Mrs. Thon",
+  "logo": "https://telegra.ph/file/c0e6d1301e01d34cdc558.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/help-iq2/telethon",
+  "repository": "https://github.com/alrys1/alryshelp",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -42,7 +42,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيرة",
-      "value": "TelethonAr",
+      "value": "alrys",
       "required": false
     }
   },
